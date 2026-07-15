@@ -1,5 +1,9 @@
 # graphicsprocessingunit.github.io
 
-Site is now being hosted on Vercel.
 
+
+I have now got a new site:
 https://aaron656.vercel.app
+
+
+This site only redirects to the new site now.
